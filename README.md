@@ -6,3 +6,5 @@ git config --global user.email "EMAIL"
 git init --> inicia o repositório git 
 status --> verifica o estado do repositóriogit 
 add NOMEFICHEIRO --> adiciona um ficheiro específico ao repositório
+
+yhyhf 
